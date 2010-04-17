@@ -1,5 +1,8 @@
 #! /usr/bin/env python
 
+##	Dumps the Ottawa Parks SQLite Db to a Json file
+#	@author	Thomas J Bradley <hey@thomasjbradley.ca>
+
 import sqlite3
 import json
 

@@ -8,6 +8,11 @@ It was scraped from the Ottawa web site and geo-located Friday, April 16, 2010.
 - All parks: <http://ottawa.ca/residents/parks_recreation/parks/locations/all_locations_en.html>
 - Dog parks: <http://ottawa.ca/residents/animal_care/cats_dogs/dogs/parks/index_en.html>
 
+Formats:
+--------
+
+The data is presented in a SQLite database, but includes scripts to export the data as CSV, XML or JSON.
+
 License:
 --------
 
