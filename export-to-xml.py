@@ -16,7 +16,7 @@ doc.appendChild(parks)
 
 for row in cur:
 	park = doc.createElement('park')
-	park.setAttribute('id', str(row[0]))
+	park.setAttribute('guid', row[0])
 	park.setAttribute('name', row[1])
 	park.setAttribute('address', row[2])
 	park.setAttribute('neighbourhood', row[3])

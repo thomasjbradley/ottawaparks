@@ -14,7 +14,7 @@ parks = []
 
 for row in cur:
 	parks.append({
-		'id': row[0],
+		'guid': row[0],
 		'name': row[1],
 		'address': row[2],
 		'neighbourhood': row[3],
