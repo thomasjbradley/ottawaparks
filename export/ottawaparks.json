@@ -1218,7 +1218,7 @@
     "name":"Brighton Beach",
     "address":"30 Brighton Avenue",
     "latitude":45.397092600000001,
-    "notes":"Asphalt path only\"",
+    "notes":"Asphalt path only",
     "guid":"4bcb2da1df8cc",
     "dogs":1,
     "neighbourhood":"Ottawa"
@@ -1758,7 +1758,7 @@
     "name":"Centrepointe",
     "address":"114 Centrepointe",
     "latitude":45.344341300000004,
-    "notes":"Pathways only\"",
+    "notes":"Pathways only",
     "guid":"4bcb2da1dfab9",
     "dogs":1,
     "neighbourhood":"Nepean"
@@ -1969,12 +1969,12 @@
   },
   {
     "restrictions":1,
-    "leashed":"0\"",
+    "leashed":0,
     "longitude":-75.697778600000007,
     "name":"Claudette Cain",
     "address":"660 River",
     "latitude":45.2730429,
-    "notes":"Leash required north of field house\"",
+    "notes":"Leash required north of field house",
     "guid":"4bcb2da1dfb80",
     "dogs":1,
     "neighbourhood":"Gloucester"
@@ -2382,7 +2382,7 @@
     "name":"Dalhousie South",
     "address":"343 Bell Street",
     "latitude":45.4020394,
-    "notes":"",
+    "notes":"Dogs allowed south of the berm, parking lot and on the path from Cameron Street down towards the Rideau River",
     "guid":"4bcb2da1dfcf9",
     "dogs":0,
     "neighbourhood":"Ottawa"
@@ -2682,7 +2682,7 @@
     "name":"Dundonald",
     "address":"516 Somerset Street West",
     "latitude":45.413323400000003,
-    "notes":"No dogs in play area\"",
+    "notes":"No dogs in play area",
     "guid":"4bcb2da1dfe11",
     "dogs":1,
     "neighbourhood":"Ottawa"
@@ -2977,7 +2977,7 @@
   },
   {
     "restrictions":"",
-    "leashed":"1\"",
+    "leashed":1,
     "longitude":-75.817294799999999,
     "name":"Entrance",
     "address":"2 Eaton St",
@@ -3397,12 +3397,12 @@
   },
   {
     "restrictions":1,
-    "leashed":"0\"",
+    "leashed":0,
     "longitude":-75.7861501,
     "name":"Frank Ryan",
     "address":"950 Alpine Avenue",
     "latitude":45.3569502,
-    "notes":"Leashed on grass\"",
+    "notes":"Leashed on grass",
     "guid":"4bcb2da1e00a0",
     "dogs":1,
     "neighbourhood":"Ottawa"
@@ -3942,7 +3942,7 @@
     "name":"Greenbank",
     "address":"895 Greenbank",
     "latitude":45.284164400000002,
-    "notes":"Pathway only\"",
+    "notes":"Pathway only",
     "guid":"4bcb2da1e0294",
     "dogs":1,
     "neighbourhood":"Nepean"
@@ -5353,7 +5353,7 @@
   },
   {
     "restrictions":1,
-    "leashed":"0\"",
+    "leashed":0,
     "longitude":-75.711658799999995,
     "name":"Lexington",
     "address":"1404 Lexington Street",
@@ -6589,7 +6589,7 @@
   },
   {
     "restrictions":1,
-    "leashed":"0\"",
+    "leashed":0,
     "longitude":-75.718892600000004,
     "name":"Nepean Creek",
     "address":"15 Colonnade",
@@ -8221,12 +8221,12 @@
   },
   {
     "restrictions":1,
-    "leashed":"0\"",
+    "leashed":0,
     "longitude":-75.709470999999994,
     "name":"Redpath",
     "address":"155 Redpath",
     "latitude":45.286823699999999,
-    "notes":"Leashed 8 a.m. to 8 p.m.\"",
+    "notes":"Leashed 8 a.m. to 8 p.m.",
     "guid":"4bcb2da1e1241",
     "dogs":1,
     "neighbourhood":"Nepean"

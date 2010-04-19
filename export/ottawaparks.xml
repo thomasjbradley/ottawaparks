@@ -112,7 +112,7 @@
 	<park address="9 Parkfield" dogs="0" guid="4bcb2da1df8b6" latitude="45.3366387" leashed="" longitude="-75.7782794" name="Briargreen" neighbourhood="Nepean" restrictions=""/>
 	<park address="75 Bridlewood Dr." dogs="1" guid="4bcb2da1df8c1" latitude="45.2942239" leashed="1" longitude="-75.8649207" name="Bridlewood" neighbourhood="Kanata" restrictions=""/>
 	<park address="30 Brighton Avenue" dogs="1" guid="4bcb2da1df8cc" latitude="45.3970926" leashed="1" longitude="-75.6749847" name="Brighton Beach" neighbourhood="Ottawa" restrictions="1">
-		Asphalt path only&quot;
+		Asphalt path only
 	</park>
 	<park address="2805 Carling Avenue" dogs="1" guid="4bcb2da1df8d6" latitude="45.3589211" leashed="" longitude="-75.7965445" name="Britannia" neighbourhood="Ottawa" restrictions="1">
 		Dogs allowed north-east corner
@@ -167,7 +167,7 @@
 	</park>
 	<park address="17 Centre" dogs="1" guid="4bcb2da1dfaaf" latitude="44.9811319" leashed="1" longitude="-75.7965023" name="Centre" neighbourhood="Gloucester" restrictions=""/>
 	<park address="114 Centrepointe" dogs="1" guid="4bcb2da1dfab9" latitude="45.3443413" leashed="1" longitude="-75.7643349" name="Centrepointe" neighbourhood="Nepean" restrictions="1">
-		Pathways only&quot;
+		Pathways only
 	</park>
 	<park address="88 Chamberlain Avenue" dogs="1" guid="4bcb2da1dfac4" latitude="45.405943" leashed="" longitude="-75.6972243" name="Chamberlain" neighbourhood="Ottawa" restrictions="1">
 		Dogs allowed between Lyon and Glendale
@@ -188,8 +188,8 @@
 	<park address="170 Castlefrank Rd" dogs="1" guid="4bcb2da1dfb5f" latitude="45.2901107" leashed="1" longitude="-75.8799404" name="Clarence Maheral" neighbourhood="Kanata" restrictions=""/>
 	<park address="1070 Forest Lea" dogs="1" guid="4bcb2da1dfb6b" latitude="45.4172515" leashed="" longitude="-75.4305991" name="Clark Woods" neighbourhood="Cumberland" restrictions=""/>
 	<park address="93 Houlahan" dogs="0" guid="4bcb2da1dfb75" latitude="45.2619249" leashed="" longitude="-75.7673188" name="Clarke Fields" neighbourhood="Nepean" restrictions=""/>
-	<park address="660 River" dogs="1" guid="4bcb2da1dfb80" latitude="45.2730429" leashed="0&quot;" longitude="-75.6977786" name="Claudette Cain" neighbourhood="Gloucester" restrictions="1">
-		Leash required north of field house&quot;
+	<park address="660 River" dogs="1" guid="4bcb2da1dfb80" latitude="45.2730429" leashed="0" longitude="-75.6977786" name="Claudette Cain" neighbourhood="Gloucester" restrictions="1">
+		Leash required north of field house
 	</park>
 	<park address="1148 Cline Crescent" dogs="1" guid="4bcb2da1dfb8f" latitude="45.3628137" leashed="1" longitude="-75.7578042" name="Cline" neighbourhood="Ottawa" restrictions=""/>
 	<park address="2 Colonnade" dogs="1" guid="4bcb2da1dfb9a" latitude="45.3402637" leashed="" longitude="-75.7268567" name="Colonnade" neighbourhood="Nepean" restrictions=""/>
@@ -224,7 +224,9 @@
 	<park address="595 Moodie" dogs="1" guid="4bcb2da1dfcd9" latitude="45.3115725" leashed="" longitude="-75.827077" name="D.a. Moodie" neighbourhood="Nepean" restrictions=""/>
 	<park address="1590 Alta Vista Drivey" dogs="1" guid="4bcb2da1dfce4" latitude="45.4079697" leashed="" longitude="-75.6585188" name="Dale" neighbourhood="Ottawa" restrictions=""/>
 	<park address="755 Somerset" dogs="" guid="4bcb2da1dfcef" latitude="45.410189" leashed="" longitude="-75.7091498" name="Dalhousie Community Centre" neighbourhood="Ottawa" restrictions=""/>
-	<park address="343 Bell Street" dogs="0" guid="4bcb2da1dfcf9" latitude="45.4020394" leashed="" longitude="-75.7031209" name="Dalhousie South" neighbourhood="Ottawa" restrictions=""/>
+	<park address="343 Bell Street" dogs="0" guid="4bcb2da1dfcf9" latitude="45.4020394" leashed="" longitude="-75.7031209" name="Dalhousie South" neighbourhood="Ottawa" restrictions="">
+		Dogs allowed south of the berm, parking lot and on the path from Cameron Street down towards the Rideau River
+	</park>
 	<park address="17 Dante Ave" dogs="1" guid="4bcb2da1dfd04" latitude="45.3291389" leashed="1" longitude="-75.8118993" name="Dante" neighbourhood="Nepean" restrictions=""/>
 	<park address="17 Dante" dogs="0" guid="4bcb2da1dfd0f" latitude="45.3291389" leashed="" longitude="-75.8118993" name="Dante" neighbourhood="Nepean" restrictions=""/>
 	<park address="5201 Mclean" dogs="1" guid="4bcb2da1dfd19" latitude="45.2446687" leashed="1" longitude="-75.7018348" name="David Bartlett" neighbourhood="Rideau" restrictions=""/>
@@ -250,7 +252,7 @@
 	<park address="1424 Duford" dogs="" guid="4bcb2da1dfdfb" latitude="45.4726437" leashed="" longitude="-75.5106152" name="Duford E Centennial" neighbourhood="Cumberland" restrictions=""/>
 	<park address="2850 Dumaurier Avenue/Pinecrest" dogs="1" guid="4bcb2da1dfe06" latitude="45.350591" leashed="" longitude="-75.790433" name="Dumaurier" neighbourhood="Ottawa" restrictions=""/>
 	<park address="516 Somerset Street West" dogs="1" guid="4bcb2da1dfe11" latitude="45.4133234" leashed="1" longitude="-75.7012582" name="Dundonald" neighbourhood="Ottawa" restrictions="1">
-		No dogs in play area&quot;
+		No dogs in play area
 	</park>
 	<park address="15 Dunlop Crt." dogs="1" guid="4bcb2da1dfe1b" latitude="45.2976559" leashed="1" longitude="-75.8921949" name="Dunlop" neighbourhood="Kanata" restrictions=""/>
 	<park address="1145 Thomas a. Dolan" dogs="1" guid="4bcb2da1dfe26" latitude="45.4204838" leashed="1" longitude="-76.0232651" name="Dunrobin Community Centre" neighbourhood="West Carleton" restrictions=""/>
@@ -278,7 +280,7 @@
 	<park address="1841 Elmridge" dogs="1" guid="4bcb2da1dfef4" latitude="45.4428589" leashed="1" longitude="-75.6039662" name="Elmridge" neighbourhood="Gloucester" restrictions=""/>
 	<park address="3795 Alderwood" dogs="1" guid="4bcb2da1dfeff" latitude="45.3453365" leashed="1" longitude="-75.6407921" name="Emerald Woods" neighbourhood="Gloucester" restrictions=""/>
 	<park address="217 Emond" dogs="0" guid="4bcb2da1dff09" latitude="45.4364289" leashed="" longitude="-75.6652204" name="Emond" neighbourhood="Vanier" restrictions=""/>
-	<park address="2 Eaton St" dogs="0" guid="4bcb2da1dff19" latitude="45.3264548" leashed="1&quot;" longitude="-75.8172948" name="Entrance" neighbourhood="Nepean" restrictions=""/>
+	<park address="2 Eaton St" dogs="0" guid="4bcb2da1dff19" latitude="45.3264548" leashed="1" longitude="-75.8172948" name="Entrance" neighbourhood="Nepean" restrictions=""/>
 	<park address="43 Bishops Mills" dogs="1" guid="4bcb2da1dff23" latitude="45.3192144" leashed="1" longitude="-75.89213" name="Ernest Smith" neighbourhood="Kanata" restrictions=""/>
 	<park address="759 Mooney’s Bay Place" dogs="1" guid="4bcb2da1dff2e" latitude="45.3650593" leashed="" longitude="-75.6854116" name="Ernie Calcutt" neighbourhood="Ottawa" restrictions=""/>
 	<park address="111 Chimo Dr." dogs="1" guid="4bcb2da1dff3d" latitude="45.3095859" leashed="1" longitude="-75.8921073" name="Escarpment/Chimo" neighbourhood="Kanata" restrictions=""/>
@@ -315,8 +317,8 @@
 	<park address="4386 Spratt" dogs="1" guid="4bcb2da1e0080" latitude="45.2756896" leashed="1" longitude="-75.6891407" name="Four Seasons" neighbourhood="Gloucester" restrictions=""/>
 	<park address="778 Willow" dogs="1" guid="4bcb2da1e008b" latitude="45.487772" leashed="1" longitude="-75.5186172" name="Francois Dupont" neighbourhood="Cumberland" restrictions=""/>
 	<park address="150 Castlefrank Rd." dogs="1" guid="4bcb2da1e0096" latitude="45.2916644" leashed="1" longitude="-75.8797166" name="Frank Macdonald Ball" neighbourhood="Kanata" restrictions=""/>
-	<park address="950 Alpine Avenue" dogs="1" guid="4bcb2da1e00a0" latitude="45.3569502" leashed="0&quot;" longitude="-75.7861501" name="Frank Ryan" neighbourhood="Ottawa" restrictions="1">
-		Leashed on grass&quot;
+	<park address="950 Alpine Avenue" dogs="1" guid="4bcb2da1e00a0" latitude="45.3569502" leashed="0" longitude="-75.7861501" name="Frank Ryan" neighbourhood="Ottawa" restrictions="1">
+		Leashed on grass
 	</park>
 	<park address="4561 Bank &amp; Leitrim" dogs="1" guid="4bcb2da1e00ab" latitude="45.331002" leashed="1" longitude="-75.599821" name="Fred Barrett Arena/Leitrim" neighbourhood="Gloucester" restrictions=""/>
 	<park address="6368 Friar Street" dogs="1" guid="4bcb2da1e00b6" latitude="45.4711751" leashed="" longitude="-75.5371951" name="Friargate" neighbourhood="Cumberland" restrictions=""/>
@@ -367,7 +369,7 @@
 	<park address="85 Grassy Plains Dr." dogs="1" guid="4bcb2da1e027a" latitude="45.276799" leashed="1" longitude="-75.8508782" name="Grassy Plains" neighbourhood="Kanata" restrictions=""/>
 	<park address="6485 Greely West" dogs="0" guid="4bcb2da1e0285" latitude="45.249503" leashed="" longitude="-75.5978363" name="Greely West" neighbourhood="Osgoode" restrictions=""/>
 	<park address="895 Greenbank" dogs="1" guid="4bcb2da1e0294" latitude="45.2841644" leashed="1" longitude="-75.7545318" name="Greenbank" neighbourhood="Nepean" restrictions="1">
-		Pathway only&quot;
+		Pathway only
 	</park>
 	<park address="Tapiola" dogs="1" guid="4bcb2da1e029f" latitude="45.363682" leashed="1" longitude="-75.641381" name="Greenboro" neighbourhood="Ottawa" restrictions="1">
 		Off-leash on greenspace south of Johnston Road between Tapiola Crescent, north of path
@@ -500,7 +502,7 @@
 	<park address="3290 Leitrim" dogs="1" guid="4bcb2da1e07a6" latitude="45.3323005" leashed="1" longitude="-75.596337" name="Leitrim" neighbourhood="Gloucester" restrictions=""/>
 	<park address="2411 Garmil" dogs="1" guid="4bcb2da1e07b1" latitude="45.1240044" leashed="1" longitude="-75.7179163" name="Lenida Drive" neighbourhood="Rideau" restrictions=""/>
 	<park address="31 Abingdon" dogs="0" guid="4bcb2da1e07bb" latitude="45.3351554" leashed="" longitude="-75.7906583" name="Leslie (Dayton)" neighbourhood="Nepean" restrictions=""/>
-	<park address="1404 Lexington Street" dogs="1" guid="4bcb2da1e07c6" latitude="45.3694703" leashed="0&quot;" longitude="-75.7116588" name="Lexington" neighbourhood="Ottawa" restrictions="1">
+	<park address="1404 Lexington Street" dogs="1" guid="4bcb2da1e07c6" latitude="45.3694703" leashed="0" longitude="-75.7116588" name="Lexington" neighbourhood="Ottawa" restrictions="1">
 		Leash required 8 a.m. to 5 p.m., Monday to Friday
 	</park>
 	<park address="171 Lincoln Heights Road" dogs="1" guid="4bcb2da1e07d0" latitude="45.3684869" leashed="" longitude="-75.7903357" name="Lincoln Heights" neighbourhood="Ottawa" restrictions=""/>
@@ -613,7 +615,7 @@
 	</park>
 	<park address="240 Walden" dogs="1" guid="4bcb2da1e0c3f" latitude="45.3315777" leashed="1" longitude="-75.9165252" name="Neilson" neighbourhood="Kanata" restrictions=""/>
 	<park address="35 Stafford" dogs="0" guid="4bcb2da1e0c4a" latitude="45.3293931" leashed="" longitude="-75.8212339" name="Nepean Creative Arts Centre" neighbourhood="Nepean" restrictions=""/>
-	<park address="15 Colonnade" dogs="1" guid="4bcb2da1e0c54" latitude="45.3433733" leashed="0&quot;" longitude="-75.7188926" name="Nepean Creek" neighbourhood="Nepean" restrictions="1">
+	<park address="15 Colonnade" dogs="1" guid="4bcb2da1e0c54" latitude="45.3433733" leashed="0" longitude="-75.7188926" name="Nepean Creek" neighbourhood="Nepean" restrictions="1">
 		Leash required in west creek section
 	</park>
 	<park address="15 Colonnade" dogs="0" guid="4bcb2da1e0c65" latitude="45.3433733" leashed="" longitude="-75.7188926" name="Nepean Creek" neighbourhood="Nepean" restrictions=""/>
@@ -759,8 +761,8 @@
 	<park address="1585 Tenth Line" dogs="1" guid="4bcb2da1e121c" latitude="45.4714367" leashed="" longitude="-75.4939424" name="Ray Friel" neighbourhood="Cumberland" restrictions=""/>
 	<park address="5 Red Maple" dogs="1" guid="4bcb2da1e1227" latitude="45.4372795" leashed="1" longitude="-75.5544439" name="Red Maple" neighbourhood="Gloucester" restrictions=""/>
 	<park address="11 Redpine" dogs="1" guid="4bcb2da1e1231" latitude="45.3487262" leashed="1" longitude="-75.7219275" name="Red Pine" neighbourhood="Nepean" restrictions=""/>
-	<park address="155 Redpath" dogs="1" guid="4bcb2da1e1241" latitude="45.2868237" leashed="0&quot;" longitude="-75.709471" name="Redpath" neighbourhood="Nepean" restrictions="1">
-		Leashed 8 a.m. to 8 p.m.&quot;
+	<park address="155 Redpath" dogs="1" guid="4bcb2da1e1241" latitude="45.2868237" leashed="0" longitude="-75.709471" name="Redpath" neighbourhood="Nepean" restrictions="1">
+		Leashed 8 a.m. to 8 p.m.
 	</park>
 	<park address="7747 Greenline" dogs="1" guid="4bcb2da1e124c" latitude="45.0741092" leashed="1" longitude="-75.6441294" name="Reeve Craig" neighbourhood="Rideau" restrictions=""/>
 	<park address="2238 Reeves Crescent" dogs="0" guid="4bcb2da1e1257" latitude="45.3858045" leashed="" longitude="-75.6579371" name="Reeves Site" neighbourhood="Ottawa" restrictions=""/>
